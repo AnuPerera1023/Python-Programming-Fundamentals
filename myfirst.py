@@ -1,7 +1,8 @@
 print("Hello PYTHON")
-h=2
-m=4
-n=h*m
 
-print(4)
+length = 5
+width = 10
+area = length * width
+
+
 
